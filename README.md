@@ -16,4 +16,4 @@ There is also the current working version that I am
 tweaking litle by little.
 
 GreenRainRev.py is the old file
-pygamer_dancing_fid.py is the newest file
+pygamer_dancing_fid_rev_1.py is the newest file
